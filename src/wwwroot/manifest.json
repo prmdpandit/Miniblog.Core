@@ -1,6 +1,6 @@
 {
-  "name": "Miniblog.Core",
-  "short_name": "Miniblog.Core",
+  "name": "CsDotNet blog",
+  "short_name": "CsDotNet",
   "description": "A short description of the blog.",
   "icons": [
     {
